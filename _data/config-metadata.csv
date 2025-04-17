@@ -4,9 +4,10 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-season, Season
-medium, Medium
-depiction, Depiction
+season,Season
+medium,Medium
+colors,Colors
+depiction,Depiction
 location,Location
 latitude,Latitude
 longitude,Longitude
