@@ -4,6 +4,10 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+colors, Colors
+season, Season
+medium, Medium
+depiction, Depiction
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -13,4 +17,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-colors, Colors
